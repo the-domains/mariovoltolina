@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mariovoltolina]]></title>
         <description><![CDATA[mariovoltolina]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mariovoltolina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 17:53:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 17:56:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mariovoltolina/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Photography can be art but it generally isn't.]]></title>
-            <description><![CDATA[<article><h1>Photography can be art but it generally isn't.</h1><p>Photography can be art but generally isn't.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef2af062e0b7596d6948f448337d8bf4c3a62426.png"></article>]]></description>
-            <link>undefinedphotography-can-be-art-but-it-generally-isnt/index.html</link>
+            <description><![CDATA[<article><h1>Photography can be art but it generally isn't.</h1><p>Photography can be art but generally isn't.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e576fc1e-4be2-4283-99f8-9f80270f2d97.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mariovoltolina/photography-can-be-art-but-it-generally-isnt/index.html</link>
             <guid isPermaLink="false">e359eaca-b939-4d69-a844-038c499a450a</guid>
-            <pubDate>Sun, 24 Jan 2016 17:52:59 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 17:56:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
